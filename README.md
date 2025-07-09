@@ -20,18 +20,6 @@ This project shows:
 
 ---
 
-## 📂 Project Structure
-
-simple-rack-server/
-
-├── application.rb # The main Rack app
-├── config.ru # Rackup config to run the app
-├── middleware/
-│ └── request_timer_middleware.rb # Custom middleware to log request time
-├── README.md
-
----
-
 # ▶️ How to Run
 
 ### 1. Install Rack
